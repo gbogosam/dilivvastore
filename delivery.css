@@ -81,7 +81,7 @@ span{
     margin-top: 50px;
 }
 #store1{
-    height: 40vh;
+    height: 50vh;
     width: 30vw;
 }
 #store2{
@@ -90,12 +90,12 @@ span{
    
 }
 #store3{
-    height: 50vh;
-    width: 30vw;
+    height: 55vh;
+    width: 40vw;
 }
 #store4{
-    height: 40vh;
-    width: 30vw;
+    height: 50vh;
+    width: 60vw;
 }
 #howDoesDilivvaStoreWork p{
     width: 50vw;
