@@ -174,11 +174,11 @@ footer{
 }
 #downloadicon{
     display: flex;
-    margin-left: 500px;
+    margin-left: 330px;
     margin-top: 10px;
 }
 #downloadicon a{
-    margin-left: 20px;
+    margin-left: 50px;
 }
 #mainfooter{
     margin-top: 70px;
